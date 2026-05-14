@@ -6,4 +6,4 @@ code => Credentails use .env file
 
 secret=1----
 
-secret=2----child feature
+secret=3----child feature
